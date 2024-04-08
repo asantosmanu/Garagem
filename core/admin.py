@@ -49,4 +49,4 @@ class UserAdmin(BaseUserAdmin):
 
 
 admin.site.register(models.User, UserAdmin)
-admin.site.register(models.acessorio)
+admin.site.register(models.Acessorio)

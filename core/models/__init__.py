@@ -1,2 +1,2 @@
 from .user import User
-from .acessorio import acessorio
+from .acessorio import Acessorio
